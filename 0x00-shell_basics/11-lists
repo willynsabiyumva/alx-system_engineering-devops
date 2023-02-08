@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la --ignore=. | awk '$1~/^d/{print "\n"$0":\ntotal " $5 "\n"$0;next}{print $0}'
+ls -la . .. /boot

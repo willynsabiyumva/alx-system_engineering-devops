@@ -1,3 +1,2 @@
-#!/bin/bash
-This is a repo for shell navigatin scripts
+#!/bin/bash This is a repo for shell navigatin scripts
 
